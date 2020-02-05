@@ -1,0 +1,11 @@
+{
+  "name": "tribal-color-styles",
+  "version": "1.0.0",
+  "description": "Color system for tribal credit",
+  "main": "_colors.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugh Berryman",
+  "license": "Tribal Credit, All rights reserved."
+}
