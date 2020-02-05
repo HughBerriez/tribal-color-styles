@@ -1,6 +1,10 @@
 {
   "name": "tribal-color-styles",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HughBerriez/tribal-color-styles"
+  },
   "description": "Color system for tribal credit",
   "main": "_colors.scss",
   "scripts": {
